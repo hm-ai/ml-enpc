@@ -2,7 +2,7 @@
 
 Welcome to you all !
 
-This [GitHub page](https://hm-ai.github.io/ml-enpc/) contains the materials for the practical part of the Machine Learning course at Ecole des Ponts 2023-2024.
+This [GitHub page](https://hm-ai.github.io/ml-enpc/) contains the materials for the practical part of the Machine Learning course at Ecole des Ponts ParisTech 2023-2024.
 
 
 # Getting Started
