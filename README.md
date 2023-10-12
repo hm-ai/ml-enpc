@@ -19,5 +19,5 @@ This [GitHub page](https://hm-ai.github.io/ml-enpc/) contains the materials for 
 | Oct 23, 2023  | Introducing Sequence Models for Sentiment Analysis       |         |          | 
 | To be defined | Fine Tuning a Large Language Model                       |         |          | 
 
-# Contact us
+# Contact
 Should you have any inquiries about the practical implementations, don't hesitate to email hachem.madmoun@enpc.fr.
