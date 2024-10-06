@@ -1,8 +1,8 @@
-<img src="https://drive.google.com/uc?export=view&id=1jDOkFA7VOsduPl47UH-1lCBFE6eF-VNn" height="100"/>
+<img src="https://drive.google.com/uc?export=view&id=12t-JTO4co2ZDxqdmNOOZG104izf5bSye" height="100"/>
 
 Welcome to you all !
 
-This [GitHub page](https://hm-ai.github.io/ml-enpc/) contains the materials for the practical part of the Machine Learning course at Ecole des Ponts ParisTech 2023-2024.
+This [GitHub page](https://hm-ai.github.io/ml-enpc/) contains the materials for the practical part of the Machine Learning course at Ecole des Ponts ParisTech 2024-2025.
 
 
 # Getting Started
@@ -13,11 +13,11 @@ This [GitHub page](https://hm-ai.github.io/ml-enpc/) contains the materials for 
 
 # Syllabus
 
-| Date         | Topics                                                   | Colab                                                                                                                                                                                                  | Solution                                                                                               | 
-|--------------|----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| Oct 16, 2023 | Tree based models and Neural Networks for Classification | [Colab_1](https://colab.research.google.com/drive/1raV0Rj4LL8EwNS_Xpg7ky-p3FZA8nk3X?usp=sharing)                                                                                                       | [Solution_1](https://colab.research.google.com/drive/1MqqjUjStZIblRWS3r7U7SbNIuhVD1i9y?usp=sharing)    | 
-| Oct 23, 2023 | Introducing Sequence Models for News Classification      | [Colab_2](https://colab.research.google.com/drive/1NBEPCGofJFyyUNPPCHJ0pf3XYUocO7fD?usp=sharing)                                                                                                       | [Solution_2](https://colab.research.google.com/drive/1onRG0E8ncHYfx0tGtoEjkIQ9Qz0JgPbH?usp=sharing)    | 
-| Nov 13, 2023 | Fine Tuning a Large Language Model                       | [Colab_3.1](https://colab.research.google.com/drive/1zhy7mHHPhA9KXhLTz6Ah_NAShsGA9vqF?usp=sharing) [Colab_3.2](https://colab.research.google.com/drive/1XkkVN2_tHl_XhUgs-hteSVcX-mYKNX7n?usp=sharing)  | [Solution_3.2](https://colab.research.google.com/drive/1O7oun-mWGwuTWFLNlCGdbWLMppeJ7vMG?usp=sharing)  | 
+| Date         | Topics                                                       | Colab                                                                                            | Solution | 
+|--------------|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------|----------|
+| Oct 7, 2024  | Tree based models and Neural Networks for Classification     | [Colab_1](https://colab.research.google.com/drive/1rXT7zlnBdtly0-UgSHMi5LOdGIycKaPL?usp=sharing) |          | 
+| Dec 2, 2024  | Generative AI : Prompt Engineering - Fine-tuning LLMs - RLHF |                                                                                                  |          | 
+| Dec 16, 2024 | Deep Generative Models                                       |                                                                                                  |          | 
 
 # Contact
-Should you have any inquiries about the practical implementations, don't hesitate to email hachem.madmoun@enpc.fr.
+Should you have any inquiries about the practical implementations, don't hesitate to email hachem.madmoun@gmail.com
