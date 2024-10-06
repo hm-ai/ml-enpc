@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?export=view&id=12t-JTO4co2ZDxqdmNOOZG104izf5bSye" height="100"/>
+<img src="https://drive.google.com/uc?id=12t-JTO4co2ZDxqdmNOOZG104izf5bSye" height="100"/>
 
 Welcome to you all !
 
