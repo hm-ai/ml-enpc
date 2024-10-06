@@ -1,4 +1,6 @@
-<img src="https://drive.google.com/uc?id=12t-JTO4co2ZDxqdmNOOZG104izf5bSye" height="100"/>
+<div align="center">
+    <img src="./images/logo_ponts.png" alt="Logo" width="30%"/>
+</div>
 
 Welcome to you all !
 
